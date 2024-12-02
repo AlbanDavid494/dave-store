@@ -1,8 +1,7 @@
 
 {
 "build": {
-    "src":"index.mjs",
-    "use":"@vercel/node",
+   
     "start":"npm run vercel"
 }
 }
