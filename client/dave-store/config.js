@@ -3,7 +3,7 @@ const checkConfig = (server) => {
     switch (server){
         case 'production':
             config = {
-               baseUrl: 'https://dave-store-dz3v.vercel.app'
+               baseUrl: 'https://dave-store-admin.vercel.app'
             };
             break;
             case 'local':
