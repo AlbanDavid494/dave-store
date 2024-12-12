@@ -74,7 +74,7 @@ const handleRegistration = async (e) => {
        <Login setIsLogin={setIsLogin} />
     ): (
       <div className='bg-gray-950 rounded-lg'>
-      <form onSubmit={handleRegistration} className='max-w-5xl mx-auto pt-10 px-10 lg:px-0 text-white' action="">
+      <form onSubmit={handleRegistration} className='max-w-5xl mx-auto pt-10 px-10 lg:px-6 text-white' action="">
         <div className='border-b border-b-white/10 pb-5'>
           <h2 className='text-lg font-semibold uppercase leading-7'>Registration Form</h2>
 
@@ -106,7 +106,7 @@ const handleRegistration = async (e) => {
   <div className='col-span-full'>
 <div className='mt-2 flex items-center gap-x-3'>
 
-<div className='flex-1'>
+{/* <div className='flex-1'>
 
   <Label title='Cover photo' />
   <div className='mt-2 justify-center rounded-lg border border-dashed border-white/25 px-6 py-4'>
@@ -130,7 +130,7 @@ const handleRegistration = async (e) => {
 </div>
 
   </div>
-</div>
+</div> */}
 
 </div>
   </div>

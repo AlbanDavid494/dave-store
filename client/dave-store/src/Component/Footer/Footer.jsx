@@ -54,8 +54,7 @@ Dave Store
   </h1>
 
   <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere eveniet magnam tenetur. Molestias,
-itaque minima veniam quisquam asperiores recusandae animi.
+Our mission is to provide you with the latest fashion trends, exceptional customer servicem and  seamless online shopping experience
 </p>
 </div>
 

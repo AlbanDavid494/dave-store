@@ -7,13 +7,13 @@ import { getStorage } from 'firebase/storage'
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-const firebaseConfig = {
-  apiKey: "AIzaSyD9XdqcvxLBB_EKNp40o_smm7IGpJ9Vih4",
-  authDomain: "e-store-18669.firebaseapp.com",
-  projectId: "e-store-18669",
-  storageBucket: "e-store-18669.firebasestorage.app",
-  messagingSenderId: "621516285810",
-  appId: "1:621516285810:web:9e9aa641fae5c2248a1feb"
+export const firebaseConfig = {
+  apiKey: "AIzaSyBFEY_1gZrmUd14EdGVH-becx7muEoDx7E",
+  authDomain: "dave-client-store.firebaseapp.com",
+  projectId: "dave-client-store",
+  storageBucket: "dave-client-store.firebasestorage.app",
+  messagingSenderId: "295917531783",
+  appId: "1:295917531783:web:0efa3384bef2f1dab7be22"
 };
 
 // Initialize Firebase

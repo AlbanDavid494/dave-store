@@ -45,7 +45,7 @@ try {
     <div className="bg-gray-950 rounded-lg">
     <form
       onSubmit={handleLogin}
-      className="max-w-5xl mx-auto pt-10 px-10 lg:px-0 text-white"
+      className="max-w-5xl mx-auto pt-10 px-10 lg:px-4 text-white"
     >
       <div className="border-b border-b-white/10 pb-5">
         <h2 className="text-lg font-semibold uppercase leading-7">
@@ -56,7 +56,7 @@ try {
         </p>
       </div>
       <div className="border-b border-b-white/10 pb-5">
-        <div className="mt-5 grid grid-cols-1 gap-x-6 gap-y-5 sm:grid-cols-6">
+        <div className="mt-5 grid grid-cols-1 gap-x-6 gap-y-5  sm:grid-cols-6">
           <div className="sm:col-span-3">
             <Label title="Email address" htmlFor="email" />
             <input

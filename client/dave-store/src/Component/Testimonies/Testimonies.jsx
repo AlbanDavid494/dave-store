@@ -9,25 +9,25 @@ const Testimonies = () => {
         {
           id: 1,
           name: "Victor",
-          text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+          text: "I was blown away by quality of the clothing from Dave Store. The attention to detail and the materials used are superb. I've never been disapointed with a prurchse, and i highly recommend this company to anyone looking for a good clothing",
           img: "https://picsum.photos/101/101",
         },
         {
           id: 2,
           name: "Satya Nadella",
-          text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+          text: "I had a issue with my order, but the customer service team at Dave Store was incredibly helpful and responsive. they resolved te isuue promptly, and i was impressed by their dedication to customer satisfaction.",
           img: "https://picsum.photos/102/102",
         },
         {
           id: 3,
           name: "Virat Kohli",
-          text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+          text: "I had a issue with my order, but the customer service team at Dave Store was incredibly helpful and responsive. they resolved te isuue promptly, and i was impressed by their dedication to customer satisfaction.",
           img: "https://picsum.photos/104/104",
         },
         {
           id: 5,
           name: "Sachin Tendulkar",
-          text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+          text: "I had a issue with my order, but the customer service team at Dave Store was incredibly helpful and responsive. they resolved te isuue promptly, and i was impressed by their dedication to customer satisfaction.",
           img: "https://picsum.photos/103/103",
         },
       ];
@@ -78,7 +78,7 @@ const Testimonies = () => {
             <div className='text-center mb-10 max-w-[600px] mx-auto'>
     <p data-aos='fade-up' className='text-sm text-primary'>What our customers are saying</p>
 <h1 data-aos='fade-up' className='text-3xl font-bold'>Testimonials</h1>
-<p className='text-xs text-gray-400' >Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam officiis quae accusantium tenetur voluptate beatae suscipit, quas veritatis magni.</p>
+<p className='text-xs text-gray-400 lg:pt-3' >Don't just take our word for it! Our customer have experienced real results and benefits from our products / services.  We are Proud of the impact we've made in te lives of our customers. Here is what they say</p>
 </div>
             {/* header section end here */}
             {/* testimonial card starts here */}

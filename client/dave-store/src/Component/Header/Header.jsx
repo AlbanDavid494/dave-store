@@ -112,7 +112,7 @@ fetchData()
 <div className='rounded-full bg-primary/40 p-1'>
 
   <Link to={'/profile'}>
-  {currentUser ? <img src={currentUser?.avatar} className='rounded-full w-10 h-10' alt='profileImg' /> :  <FiUser className='hover:text-skyText duration-200 cursor-pointer' />}
+  {currentUser ? <FiUser className='hover:text-skyText duration-200 cursor-pointer' /> :  <FiUser className='hover:text-skyText duration-200 cursor-pointer' />}
  
   </Link>
 </div>

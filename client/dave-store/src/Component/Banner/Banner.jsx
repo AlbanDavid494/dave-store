@@ -27,8 +27,7 @@ className="max-w-[400px] h-[350px] w-full mx-auto drop-shadow-[-10px_10px_12px_r
 <div className="flex flex-col justify-center gap-6 sm:pt-0">
 <h1 className="text-3xl sm:text-4xl font-bold">Winter Sale upto 50% off</h1>
 <p data-aos='fade-up' className="text-sm text-gray-500 tracking-wide leading-5">
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, rem at sit provident dicta
-tenetur non officiis modi cupiditate natus!
+"Don't miss out! Our winter Sale ends soon! Shop now and enjoy amazing discount"
 </p>
 
 <div className="flex flex-col gap-4">

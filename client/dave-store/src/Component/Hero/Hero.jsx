@@ -29,21 +29,21 @@ const ImageList = [
     img: Image1,
     title: "Upto 50% off on all Men's Wear",
     description:
-    'lorem His Life will forever be Changed dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    "High-quality men's clothing, Our mission is to provide you with the latest fashion trends explore now!"
     },
     {
     id: 2,
     img: Image2,
     title: "30% off on all Women's Wear",
     description:
-    "Who's there lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Discover our collection of Women'clothing, designes to keep you looking sharp and feeling confident. We believe that fashion should be accesible, affordable and enjoyable.",
     },
     {
     id: 3,
     img: Image3,
     title: '70% off on all Products Sale',
     description:
-    'consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    'Elevate your wardobe with our collection of stylish tops, from casual tees to dress shirts. Find the perfect fit with our range of shirt, jewelries and accessorie',
     },
     ];
     
@@ -91,7 +91,7 @@ data-aos-duration='500'
 data-aos-delay='300'
 >
     <Link to={'/products'}>
-<button className="bg-gradient-to-r from-primary to-secondary hover:scale-105 duration-200 text-white py-2 px-4 rounded-full">
+<button className="bg-gradient-to-r from-primary to-secondary hover:scale-105 duration-200 text-white py-2 px-4 sm:my-3 rounded-full">
 Order Now
 </button>
 </Link>
