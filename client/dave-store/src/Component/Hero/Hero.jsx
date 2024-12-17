@@ -65,7 +65,7 @@ const ImageList = [
 
     return (
 
-        <section className='relative dark:bg-gray-950 overflow-hidden dark:text-white bg-gray-100 min-h-[550px] sm:min-h-[650px] duration-200 '>
+        <section className='relative dark:bg-gray-950 overflow-hidden dark:text-white bg-gray-100 min-h-[550px] sm:min-h-[650px] sm:mb-4 duration-200 '>
 
 <div className="h-[700px] w-[700px] bg-primary/40 absolute -top-1/2 right-0 rounded-3xl rotate-45 -z[8]"></div>
 
