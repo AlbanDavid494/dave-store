@@ -65,7 +65,7 @@ const ImageList = [
 
     return (
 
-        <section className='relative dark:bg-gray-950 overflow-hidden dark:text-white bg-gray-100 min-h-[550px] sm:min-h-[650px] sm:mb-4 duration-200 '>
+        <section className='relative dark:bg-gray-950 overflow-hidden dark:text-white bg-gray-100 min-h-[550px] sm:min-h-[650px] duration-200 '>
 
 <div className="h-[700px] w-[700px] bg-primary/40 absolute -top-1/2 right-0 rounded-3xl rotate-45 -z[8]"></div>
 
@@ -74,7 +74,7 @@ const ImageList = [
 <div key={uuidv4()}>
 <div className="grid grid-cols-1 sm:grid-cols-2">
 {/* text content div starts here */}
-<div className="flex flex-col justify-center gap-4 pt-12 sm:pt-0 text-center sm:text-left order-2 sm:oder-1 relative z-10 lg:ml-8 lg:mt-20" >
+<div className="flex flex-col justify-center gap-4 pt-12 sm:pt-0 text-center sm:text-left order-2 sm:oder-1 relative z-10 lg:ml-8 lg:mt-20 sm:mb-4" >
 <h1
 data-aos='zoom-out'
 data-aos-duration='500'
